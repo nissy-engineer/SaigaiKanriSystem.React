@@ -1,32 +1,59 @@
-## ƒcƒŠ[}
+ï»¿## ãƒ„ãƒªãƒ¼å›³
 
 ```
 SaigaiKanriSystem.React/
-„¥„Ÿ„Ÿ saigaikanrisystem.react.client/
-„    „¥„Ÿ„Ÿ src/
-„    „    „¥„Ÿ„Ÿ assets/
-„    „    „    „¥„Ÿ„Ÿ react.svg
-„    „    „    „¤„Ÿ„Ÿ vite.svg
-„    „    „¥„Ÿ„Ÿ components/
-„    „    „¥„Ÿ„Ÿ App.tsx
-„    „    „¥„Ÿ„Ÿ App.css
-„    „    „¥„Ÿ„Ÿ main.tsx
-„    „    „¤„Ÿ„Ÿ index.css
-„    „¥„Ÿ„Ÿ public/
-„    „    „¤„Ÿ„Ÿ vite.svg
-„    „¥„Ÿ„Ÿ package.json
-„    „¥„Ÿ„Ÿ tsconfig.json
-„    „¥„Ÿ„Ÿ vite.config.ts
-„    „¥„Ÿ„Ÿ index.html
-„    „¥„Ÿ„Ÿ CHANGELOG.md
-„    „¤„Ÿ„Ÿ saigaikanrisystem.react.client.esproj
-„ 
-„¤„Ÿ„Ÿ SaigaiKanriSystem.React.Server/
-    „¥„Ÿ„Ÿ Controllers/
-    „    „¤„Ÿ„Ÿ WeatherForecastController.cs
-    „¥„Ÿ„Ÿ Properties/
-    „¥„Ÿ„Ÿ WeatherForecast.cs
-    „¥„Ÿ„Ÿ Program.cs
-    „¥„Ÿ„Ÿ CHANGELOG.md
-    „¤„Ÿ„Ÿ SaigaiKanriSystem.React.Server.csproj
+â”œâ”€â”€ saigaikanrisystem.react.client/
+â”‚   â”œâ”€â”€ src/
+â”‚   â”‚   â”œâ”€â”€ assets/
+â”‚   â”‚   â”‚   â”œâ”€â”€ react.svg
+â”‚   â”‚   â”‚   â””â”€â”€ vite.svg
+â”‚   â”‚   â”œâ”€â”€ components/
+â”‚   â”‚   â”œâ”€â”€ App.tsx
+â”‚   â”‚   â”œâ”€â”€ App.css
+â”‚   â”‚   â”œâ”€â”€ main.tsx
+â”‚   â”‚   â””â”€â”€ index.css
+â”‚   â”œâ”€â”€ public/
+â”‚   â”‚   â””â”€â”€ vite.svg
+â”‚   â”œâ”€â”€ package.json
+â”‚   â”œâ”€â”€ tsconfig.json
+â”‚   â”œâ”€â”€ vite.config.ts
+â”‚   â”œâ”€â”€ index.html
+â”‚   â”œâ”€â”€ CHANGELOG.md
+â”‚   â””â”€â”€ saigaikanrisystem.react.client.esproj
+â”‚
+â””â”€â”€ SaigaiKanriSystem.React.Server/
+    â”œâ”€â”€ Controllers/
+    â”‚   â””â”€â”€ WeatherForecastController.cs
+    â”œâ”€â”€ Properties/
+    â”œâ”€â”€ WeatherForecast.cs
+    â”œâ”€â”€ Program.cs
+    â”œâ”€â”€ CHANGELOG.md
+    â””â”€â”€ SaigaiKanriSystem.React.Server.csproj
+```
+
+## Gitæ“ä½œï¼ˆãƒ—ãƒƒã‚·ãƒ¥æ–¹æ³•ï¼‰
+
+### æ–¹æ³•1ï¼šã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ã‚³ãƒãƒ³ãƒ‰å®Ÿè¡Œ
+
+VS Codeã®ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã§ä»¥ä¸‹ã‚’å®Ÿè¡Œï¼š
+```bash
+git add .
+git commit -m "ã‚³ãƒŸãƒƒãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸"
+git push
+```
+
+### æ–¹æ³•2ï¼šVS Codeã®GUIæ“ä½œï¼ˆæ¨å¥¨ï¼‰
+
+1. å·¦ã‚µã‚¤ãƒ‰ãƒãƒ¼ã®ã€Œã‚½ãƒ¼ã‚¹ç®¡ç†ã€ã‚¢ã‚¤ã‚³ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ï¼ˆã¾ãŸã¯ `Ctrl + Shift + G`ï¼‰
+2. å¤‰æ›´ã•ã‚ŒãŸãƒ•ã‚¡ã‚¤ãƒ«ãŒè¡¨ç¤ºã•ã‚Œã‚‹
+3. ã€Œ+ã€ãƒœã‚¿ãƒ³ã§ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¹ãƒ†ãƒ¼ã‚¸ãƒ³ã‚°ï¼ˆã¾ãŸã¯ã€Œã™ã¹ã¦ã®å¤‰æ›´ã‚’ã‚¹ãƒ†ãƒ¼ã‚¸ã€ï¼‰
+4. ä¸Šéƒ¨ã®ãƒ†ã‚­ã‚¹ãƒˆãƒœãƒƒã‚¯ã‚¹ã«ã‚³ãƒŸãƒƒãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å…¥åŠ›
+5. ã€Œã‚³ãƒŸãƒƒãƒˆã€ã‚’ã‚¯ãƒªãƒƒã‚¯
+6. ã€Œ...ã€â†’ã€Œãƒ—ãƒƒã‚·ãƒ¥ã€ã‚’ã‚¯ãƒªãƒƒã‚¯
+
+### åˆå›ã®ã¿å¿…è¦ãªè¨­å®š
+```bash
+# Gitã®ãƒ¦ãƒ¼ã‚¶ãƒ¼æƒ…å ±è¨­å®šï¼ˆä¸€åº¦ã ã‘ï¼‰
+git config --global user.name "ã‚ãªãŸã®åå‰"
+git config --global user.email "your-email@example.com"
 ```
