@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:53377",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\nishimura0606\\Desktop\\VisualStudio2022\\SaigaiKanriSystem.React\\SaigaiKanriSystem.React.Server\\..\\saigaikanrisystem.react.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
