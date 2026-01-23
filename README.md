@@ -1,59 +1,59 @@
-## ƒcƒŠ[}
+## ï¿½cï¿½ï¿½ï¿½[ï¿½}
 
 ```
 SaigaiKanriSystem.React/
-„¥„Ÿ„Ÿ saigaikanrisystem.react.client/
-„    „¥„Ÿ„Ÿ src/
-„    „    „¥„Ÿ„Ÿ assets/
-„    „    „    „¥„Ÿ„Ÿ react.svg
-„    „    „    „¤„Ÿ„Ÿ vite.svg
-„    „    „¥„Ÿ„Ÿ components/
-„    „    „¥„Ÿ„Ÿ App.tsx
-„    „    „¥„Ÿ„Ÿ App.css
-„    „    „¥„Ÿ„Ÿ main.tsx
-„    „    „¤„Ÿ„Ÿ index.css
-„    „¥„Ÿ„Ÿ public/
-„    „    „¤„Ÿ„Ÿ vite.svg
-„    „¥„Ÿ„Ÿ package.json
-„    „¥„Ÿ„Ÿ tsconfig.json
-„    „¥„Ÿ„Ÿ vite.config.ts
-„    „¥„Ÿ„Ÿ index.html
-„    „¥„Ÿ„Ÿ CHANGELOG.md
-„    „¤„Ÿ„Ÿ saigaikanrisystem.react.client.esproj
-„ 
-„¤„Ÿ„Ÿ SaigaiKanriSystem.React.Server/
-    „¥„Ÿ„Ÿ Controllers/
-    „    „¤„Ÿ„Ÿ WeatherForecastController.cs
-    „¥„Ÿ„Ÿ Properties/
-    „¥„Ÿ„Ÿ WeatherForecast.cs
-    „¥„Ÿ„Ÿ Program.cs
-    „¥„Ÿ„Ÿ CHANGELOG.md
-    „¤„Ÿ„Ÿ SaigaiKanriSystem.React.Server.csproj
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ saigaikanrisystem.react.client/
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ src/
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ assets/
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ react.svg
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ vite.svg
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ components/
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ App.tsx
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ App.css
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ main.tsx
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ index.css
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ public/
+ï¿½ï¿½   ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ vite.svg
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ package.json
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ tsconfig.json
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ vite.config.ts
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ index.html
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CHANGELOG.md
+ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ saigaikanrisystem.react.client.esproj
+ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ SaigaiKanriSystem.React.Server/
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Controllers/
+    ï¿½ï¿½   ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ WeatherForecastController.cs
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Properties/
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ WeatherForecast.cs
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Program.cs
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ CHANGELOG.md
+    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ SaigaiKanriSystem.React.Server.csproj
 ```
 
-## Git‘€ìiƒvƒbƒVƒ…•û–@j
+## Gitï¿½ï¿½ï¿½ï¿½iï¿½vï¿½bï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½j
 
-### •û–@1Fƒ^[ƒ~ƒiƒ‹‚ÅƒRƒ}ƒ“ƒhÀs
+### ï¿½ï¿½ï¿½@1ï¿½Fï¿½^ï¿½[ï¿½~ï¿½iï¿½ï¿½ï¿½ÅƒRï¿½}ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½s
 
-VS Code‚Ìƒ^[ƒ~ƒiƒ‹‚ÅˆÈ‰º‚ğÀsF
+VS Codeï¿½Ìƒ^ï¿½[ï¿½~ï¿½iï¿½ï¿½ï¿½ÅˆÈ‰ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½F
 ```bash
 git add .
-git commit -m "ƒRƒ~ƒbƒgƒƒbƒZ[ƒW"
+git commit -m "ï¿½Rï¿½~ï¿½bï¿½gï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½W"
 git push
 ```
 
-### •û–@2FVS Code‚ÌGUI‘€ìi„§j
+### ï¿½ï¿½ï¿½@2ï¿½FVS Codeï¿½ï¿½GUIï¿½ï¿½ï¿½ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½j
 
-1. ¶ƒTƒCƒhƒo[‚Ìuƒ\[ƒXŠÇ—vƒAƒCƒRƒ“‚ğƒNƒŠƒbƒNi‚Ü‚½‚Í `Ctrl + Shift + G`j
-2. •ÏX‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ª•\¦‚³‚ê‚é
-3. u+vƒ{ƒ^ƒ“‚Åƒtƒ@ƒCƒ‹‚ğƒXƒe[ƒWƒ“ƒOi‚Ü‚½‚Íu‚·‚×‚Ä‚Ì•ÏX‚ğƒXƒe[ƒWvj
-4. ã•”‚ÌƒeƒLƒXƒgƒ{ƒbƒNƒX‚ÉƒRƒ~ƒbƒgƒƒbƒZ[ƒW‚ğ“ü—Í
-5. uƒRƒ~ƒbƒgv‚ğƒNƒŠƒbƒN
-6. u...v¨uƒvƒbƒVƒ…v‚ğƒNƒŠƒbƒN
+1. ï¿½ï¿½ï¿½Tï¿½Cï¿½hï¿½oï¿½[ï¿½Ìuï¿½\ï¿½[ï¿½Xï¿½Ç—ï¿½ï¿½vï¿½Aï¿½Cï¿½Rï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½Nï¿½iï¿½Ü‚ï¿½ï¿½ï¿½ `Ctrl + Shift + G`ï¿½j
+2. ï¿½ÏXï¿½ï¿½ï¿½ê‚½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½\ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+3. ï¿½u+ï¿½vï¿½{ï¿½^ï¿½ï¿½ï¿½Åƒtï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½eï¿½[ï¿½Wï¿½ï¿½ï¿½Oï¿½iï¿½Ü‚ï¿½ï¿½Íuï¿½ï¿½ï¿½×‚Ä‚Ì•ÏXï¿½ï¿½ï¿½Xï¿½eï¿½[ï¿½Wï¿½vï¿½j
+4. ï¿½ã•”ï¿½Ìƒeï¿½Lï¿½Xï¿½gï¿½{ï¿½bï¿½Nï¿½Xï¿½ÉƒRï¿½~ï¿½bï¿½gï¿½ï¿½ï¿½bï¿½Zï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½
+5. ï¿½uï¿½Rï¿½~ï¿½bï¿½gï¿½vï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½N
+6. ï¿½u...ï¿½vï¿½ï¿½ï¿½uï¿½vï¿½bï¿½Vï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Nï¿½ï¿½ï¿½bï¿½N
 
-### ‰‰ñ‚Ì‚İ•K—v‚Èİ’è
+### ï¿½ï¿½ï¿½ï¿½Ì‚İ•Kï¿½vï¿½Èİ’ï¿½
 ```bash
-# Git‚Ìƒ†[ƒU[î•ñİ’èiˆê“x‚¾‚¯j
-git config --global user.name "‚ ‚È‚½‚Ì–¼‘O"
+# Gitï¿½Ìƒï¿½ï¿½[ï¿½Uï¿½[ï¿½ï¿½ï¿½İ’ï¿½iï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½j
+git config --global user.name "ï¿½ï¿½ï¿½È‚ï¿½ï¿½Ì–ï¿½ï¿½O"
 git config --global user.email "your-email@example.com"
 ```
