@@ -8,7 +8,11 @@
  * - アプリ全体の初期化処理を行う
  * 
  * 起動の流れ:
- * index.html → main.tsx → App.tsx → 各ページコンポーネント
+ * index.html 
+ *   → main.tsx（アプリ起動）
+ *   → App.tsx（BrowserRouterでルーティング開始）
+ *   → routes/index.tsx（URLに応じたページを選択）
+ *   → 各ページコンポーネント（Menu.tsx、List.tsxなど）
  */
 
 import { StrictMode } from 'react'
